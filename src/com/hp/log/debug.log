@@ -1,0 +1,48 @@
+2019-01-21 17:23:45 下午 [Thread: main][ Class:com.alibaba.druid.pool.DruidDataSource >> Method: com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:932) ]
+INFO:{dataSource-1} inited
+2019-01-21 17:23:46 下午 [Thread: main][ Class:com.alibaba.druid.pool.PreparedStatementPool >> Method: com.alibaba.druid.pool.PreparedStatementPool.put(PreparedStatementPool.java:129) ]
+DEBUG:{conn-10010, pstmt-20000} enter cache
+2019-01-21 17:23:46 下午 [Thread: Thread-1][ Class:com.alibaba.druid.pool.PreparedStatementPool >> Method: com.alibaba.druid.pool.PreparedStatementPool.closeRemovedStatement(PreparedStatementPool.java:160) ]
+DEBUG:{conn-10010, pstmt-20000} exit cache
+2019-01-21 17:23:46 下午 [Thread: Thread-1][ Class:com.alibaba.druid.pool.DruidDataSource >> Method: com.alibaba.druid.pool.DruidDataSource.close(DruidDataSource.java:1712) ]
+INFO:{dataSource-1} closed
+2019-01-21 17:27:42 下午 [Thread: main][ Class:com.alibaba.druid.pool.DruidDataSource >> Method: com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:932) ]
+INFO:{dataSource-1} inited
+2019-01-21 17:27:43 下午 [Thread: main][ Class:com.alibaba.druid.pool.PreparedStatementPool >> Method: com.alibaba.druid.pool.PreparedStatementPool.put(PreparedStatementPool.java:129) ]
+DEBUG:{conn-10010, pstmt-20000} enter cache
+2019-01-21 17:27:43 下午 [Thread: Thread-1][ Class:com.alibaba.druid.pool.PreparedStatementPool >> Method: com.alibaba.druid.pool.PreparedStatementPool.closeRemovedStatement(PreparedStatementPool.java:160) ]
+DEBUG:{conn-10010, pstmt-20000} exit cache
+2019-01-21 17:27:43 下午 [Thread: Thread-1][ Class:com.alibaba.druid.pool.DruidDataSource >> Method: com.alibaba.druid.pool.DruidDataSource.close(DruidDataSource.java:1712) ]
+INFO:{dataSource-1} closed
+2019-01-21 17:30:06 下午 [Thread: main][ Class:com.alibaba.druid.pool.DruidDataSource >> Method: com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:932) ]
+INFO:{dataSource-1} inited
+2019-01-21 17:30:06 下午 [Thread: main][ Class:com.alibaba.druid.pool.PreparedStatementPool >> Method: com.alibaba.druid.pool.PreparedStatementPool.put(PreparedStatementPool.java:129) ]
+DEBUG:{conn-10010, pstmt-20000} enter cache
+2019-01-21 17:30:06 下午 [Thread: Thread-1][ Class:com.alibaba.druid.pool.PreparedStatementPool >> Method: com.alibaba.druid.pool.PreparedStatementPool.closeRemovedStatement(PreparedStatementPool.java:160) ]
+DEBUG:{conn-10010, pstmt-20000} exit cache
+2019-01-21 17:30:06 下午 [Thread: Thread-1][ Class:com.alibaba.druid.pool.DruidDataSource >> Method: com.alibaba.druid.pool.DruidDataSource.close(DruidDataSource.java:1712) ]
+INFO:{dataSource-1} closed
+2019-01-21 17:30:14 下午 [Thread: main][ Class:com.alibaba.druid.pool.DruidDataSource >> Method: com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:932) ]
+INFO:{dataSource-1} inited
+2019-01-21 17:30:14 下午 [Thread: main][ Class:com.alibaba.druid.pool.PreparedStatementPool >> Method: com.alibaba.druid.pool.PreparedStatementPool.put(PreparedStatementPool.java:129) ]
+DEBUG:{conn-10010, pstmt-20000} enter cache
+2019-01-21 17:30:14 下午 [Thread: Thread-1][ Class:com.alibaba.druid.pool.PreparedStatementPool >> Method: com.alibaba.druid.pool.PreparedStatementPool.closeRemovedStatement(PreparedStatementPool.java:160) ]
+DEBUG:{conn-10010, pstmt-20000} exit cache
+2019-01-21 17:30:14 下午 [Thread: Thread-1][ Class:com.alibaba.druid.pool.DruidDataSource >> Method: com.alibaba.druid.pool.DruidDataSource.close(DruidDataSource.java:1712) ]
+INFO:{dataSource-1} closed
+2019-01-21 17:30:40 下午 [Thread: main][ Class:com.alibaba.druid.pool.DruidDataSource >> Method: com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:932) ]
+INFO:{dataSource-1} inited
+2019-01-21 17:30:41 下午 [Thread: main][ Class:com.alibaba.druid.pool.PreparedStatementPool >> Method: com.alibaba.druid.pool.PreparedStatementPool.put(PreparedStatementPool.java:129) ]
+DEBUG:{conn-10010, pstmt-20000} enter cache
+2019-01-21 17:30:41 下午 [Thread: Thread-1][ Class:com.alibaba.druid.pool.PreparedStatementPool >> Method: com.alibaba.druid.pool.PreparedStatementPool.closeRemovedStatement(PreparedStatementPool.java:160) ]
+DEBUG:{conn-10010, pstmt-20000} exit cache
+2019-01-21 17:30:41 下午 [Thread: Thread-1][ Class:com.alibaba.druid.pool.DruidDataSource >> Method: com.alibaba.druid.pool.DruidDataSource.close(DruidDataSource.java:1712) ]
+INFO:{dataSource-1} closed
+2019-01-21 17:31:38 下午 [Thread: main][ Class:com.alibaba.druid.pool.DruidDataSource >> Method: com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:932) ]
+INFO:{dataSource-1} inited
+2019-01-21 17:31:38 下午 [Thread: main][ Class:com.alibaba.druid.pool.PreparedStatementPool >> Method: com.alibaba.druid.pool.PreparedStatementPool.put(PreparedStatementPool.java:129) ]
+DEBUG:{conn-10010, pstmt-20000} enter cache
+2019-01-21 17:31:38 下午 [Thread: Thread-1][ Class:com.alibaba.druid.pool.PreparedStatementPool >> Method: com.alibaba.druid.pool.PreparedStatementPool.closeRemovedStatement(PreparedStatementPool.java:160) ]
+DEBUG:{conn-10010, pstmt-20000} exit cache
+2019-01-21 17:31:38 下午 [Thread: Thread-1][ Class:com.alibaba.druid.pool.DruidDataSource >> Method: com.alibaba.druid.pool.DruidDataSource.close(DruidDataSource.java:1712) ]
+INFO:{dataSource-1} closed
